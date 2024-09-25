@@ -5,7 +5,7 @@ st.header('Frequently Asked Questions')
 st.markdown("""
         ### Q: How should I credit the data that I download ?  
         A: Use of any data featured on this site for publication purposes should include references to the article that 
-        describes the experiments conducted for generating the data. See the  __Our team & Researches__ section. Additionally, please cite https://batterydatabase-imech-app.streamlit.app/ as the source from where
+        describes the experiments conducted for generating the data. See the  __Our team & Researches__ section for details. Please cite the corresponding article and https://batterydatabase-imech-app.streamlit.app/ as the sources from where
          the data was downloaded. 
         ### Q: How are the cells named ?
         A: The cell ID is arranged in the form of: "Manufacturer abbr. & batch number-Form abbr.-Cathode-Nominal Capacity
