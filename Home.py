@@ -18,13 +18,13 @@ st.markdown(
 col1, col2, col3 = st.columns(3)
 with col1:
     st.write("Cycling")
-    st.image('pics\Aging.png')
+    st.image('pics/Aging.png')
 with col2:
     st.write("Characterization")
-    st.image('pics\Characterization.png')
+    st.image('pics/Characterization.png')
 with col3:
     st.write("Disruptive")
-    st.image('pics\Disruptive.png')
+    st.image('pics/Disruptive.png')
 
 st.markdown(
     """
@@ -35,13 +35,13 @@ st.markdown(
 col1, col2, col3 = st.columns(3)
 with col1:
     st.write("Voltage curves")
-    st.image('pics\Voltage.png')
+    st.image('pics/Voltage.png')
 with col2:
     st.write("Capacity fade")
-    st.image('pics\Capacity.jpg')
+    st.image('pics/Capacity.jpg')
 with col3:
     st.write("Temperature rise")
-    st.image('pics\Temperature.jpg')
+    st.image('pics/Temperature.jpg')
 
 st.markdown(
     """
