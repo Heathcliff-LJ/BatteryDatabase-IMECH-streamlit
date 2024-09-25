@@ -236,7 +236,7 @@ if st.session_state.clicked:
         plot_df = pd.DataFrame()
 
         for chose in chose_list:
-            path = 'processed_data\\' + chose + '.xlsx'
+            path = 'processed_data/' + chose + '.xlsx'
             workbook = pd.read_excel(path)
             plot_df['Cycle (N)'] = workbook['Cycle (N)']
             plot_df[chose] = workbook['Capacity (mAh)']
@@ -277,7 +277,7 @@ if st.session_state.clicked:
         plot_df = {}
         for chose in chose_list:
             title = 'Voltage variations of Cell ' + ' : ' + chose
-            path = 'cycle data\\' + chose + '.xlsx'
+            path = 'cycle data/' + chose + '.xlsx'
             workbook = pd.read_excel(path)
             column_names = workbook.columns.tolist()
             figure, ax = plt.subplots()
