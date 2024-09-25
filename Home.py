@@ -51,7 +51,7 @@ st.markdown(
      - Degradation Mechanism Analysis
      - ......
      ## Contact us
-     To ask for raw data, offer site feedback or contribute datasets, please email ...@imech...
+     To ask for raw data, offer site feedback or contribute datasets, please email liujin@imech.ac.cn
      """
  )
 
