@@ -8,7 +8,7 @@ st.markdown("""
     Journal of Energy Storage (2024)
     """)
 st.link_button("Get Access", "https://doi.org/10.1016/j.est.2024.113370")
-st.image('pics\Team1.png', width=500)
+st.image('pics/Team1.png', width=500)
 
 st.markdown("""
     ### Size effect on the thermal and mechanical performance of cylindrical lithium-ion batteries
@@ -16,7 +16,7 @@ st.markdown("""
     Applied Energy (2024)
     """)
 st.link_button("Get Access", "https://linkinghub.elsevier.com/retrieve/pii/S0306261924014399")
-st.image('pics\Team2.png', width=400)
+st.image('pics/Team2.png', width=400)
 
 st.markdown("""
     ### The Operation dependency of C-N fatigue for lithium-ion batteries
@@ -24,7 +24,7 @@ st.markdown("""
     Advanced Energy Materials (2023)
     """)
 st.link_button("Get Access", "https://onlinelibrary.wiley.com/doi/10.1002/aenm.202300942")
-st.image('pics\Team3.png', width=600)
+st.image('pics/Team3.png', width=600)
 
 st.markdown("""
     ### Linear correlation between state-of-health and incremental state-of-charge in Li-ion batteries and its application to SoH evaluation  
@@ -32,7 +32,7 @@ st.markdown("""
     Electrochimica Acta (2022)
     """)
 st.link_button("Get Access", "https://linkinghub.elsevier.com/retrieve/pii/S0013468622014578")
-st.image('pics\Team4.png', width=500)
+st.image('pics/Team4.png', width=500)
 
 st.markdown("""
     ### The Scaling of charging rate and cycle number of commercial batteries  
@@ -40,7 +40,7 @@ st.markdown("""
     Acta Mechanica Sinica (2022)
     """)
 st.link_button("Get Access", "https://link.springer.com/article/10.1007/s10409-022-22108-x")
-st.image('pics\Team5.png', width=600)
+st.image('pics/Team5.png', width=600)
 
 st.markdown("""
     ### Interface Aspects in All‐Solid‐State Li‐Based Batteries Reviewed
@@ -55,4 +55,4 @@ st.markdown("""
     Journal of the Mechanics and Physics of Solids (2021)
     """)
 st.link_button("Get Access", "https://linkinghub.elsevier.com/retrieve/pii/S0022509621001502")
-st.image('pics\Team6.png', width=500)
+st.image('pics/Team6.png', width=500)
