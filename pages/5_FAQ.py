@@ -5,8 +5,7 @@ st.header('Frequently Asked Questions')
 st.markdown("""
         ### Q: How should I credit the data that I download ?  
         A: Use of any data featured on this site for publication purposes should include references to the article that 
-        describes the experiments conducted for generating the data. See the __related study column in the cell list__ or th
-        e __Our team & Researches__ section. Additionally, Additionally, please cite www.XXX.com as the source from where
+        describes the experiments conducted for generating the data. See the  __Our team & Researches__ section. Additionally, please cite https://batterydatabase-imech-app.streamlit.app/ as the source from where
          the data was downloaded. 
         ### Q: How are the cells named ?
         A: The cell ID is arranged in the form of: "Manufacturer abbr. & batch number-Form abbr.-Cathode-Nominal Capacity
@@ -14,6 +13,6 @@ st.markdown("""
          __For example:__"LG1-18-NCA-3.35-1_4.2-3_2.5-T25-1" represents the first batch 18650 cell with NCA cathode and 3.35
         Ah nominal capacity from LG, which charged at 1C to 4.2V and discharged to 2.5V at 3C in an environment of 25 degree.
         ### Q: How do I contribute data to the site ?
-        A: To offer site feedback or contribute datasets, please email ...@imech...
+        A: To offer site feedback or contribute datasets, please email：liujin@imech.ac.cn
         
         """)
